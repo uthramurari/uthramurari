@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uthramurari
 - 👀 I’m interested in exploring and learning new things.
-- 🌱 I’m currently learning Foundations of Data Science and Machine Learning
+- 🌱 I’m currently learning Foundations of Data Science and Machine Learning. I am also learning how to use the Git platform.
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me ... uthra.ma@gmail.com
 
